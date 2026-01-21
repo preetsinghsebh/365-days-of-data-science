@@ -1,16 +1,11 @@
-# Day 21 – Revenue by Product Category Analysis
+# Day 21 – Category Revenue Insights
 
-This notebook performs a focused analysis of revenue distribution
+This notebook provides a focused analysis of how revenue is distributed
 across product categories in an e-commerce dataset.
 
 ## Objective
-Identify top-performing categories and extract business insights.
+Identify revenue-driving categories and explain their business impact.
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-
-## Outcome
-Clear identification of revenue-driving categories to support
-business decision-making.
+## Key Takeaway
+Revenue concentration across a few categories highlights the importance
+of targeted inventory and marketing strategies.
