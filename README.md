@@ -1,37 +1,39 @@
 # 365 Days of Data Science 🚀
 
-Daily hands-on data science practice using Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, and real-world datasets.
+Daily hands-on data science practice using real-world datasets.
+This repository documents my journey of building recruiter-ready projects consistently.
 
-This repository documents my journey of building **real, recruiter-ready projects** consistently for 365 days.
+---
 
-## What you'll find here
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning Models
-- SQL & Business Analytics
-- Real-world datasets (Kaggle, public data)
+## 📌 Skills Covered
+- Python (Pandas, NumPy)
+- Data Cleaning & EDA
+- SQL-style Analysis
+- Data Visualization (Matplotlib, Seaborn)
+- Business Insights
+- Google Colab & GitHub
 
-## Tools & Technologies
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-- SQL
-- Google Colab
+---
 
-📌 **Goal**: Become job-ready by building projects publicly and consistently.
+## 🗂️ Project Timeline
 
-## Project Status
+### ✅ Completed Projects
+- **Netflix Data Analysis (Day 1–7)**
+  - Data cleaning
+  - Exploratory Data Analysis
+  - Business insights
+  - Mini case study
 
-The Netflix data analysis project (Day 1–Day 7) is complete.
+### 🔄 Ongoing Project
+- **E-Commerce Customer Behavior & Sales Analysis (Day 8–Present)**
+  - Data cleaning
+  - EDA
+  - Revenue & category analysis
+  - Customer-level insights
 
-This project represents an end-to-end data analysis workflow including:
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- SQL-style analytical queries using pandas
-- Business-oriented insights
-- Interview-style mini case study
-- Final refinement and documentation
+---
 
-This project is now portfolio-ready and will remain unchanged except for
-minor fixes or interview-specific improvements.
+## 🎯 Goal
+Become job-ready by building and sharing data projects publicly and consistently.
+
+
