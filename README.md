@@ -24,12 +24,10 @@ This repository documents my journey of building recruiter-ready projects consis
   - Business insights
   - Mini case study
 
-### 🔄 Ongoing Project
-- **E-Commerce Customer Behavior & Sales Analysis (Day 8–Present)**
-  - Data cleaning
-  - EDA
-  - Revenue & category analysis
-  - Customer-level insights
+- **E-Commerce Customer Behavior & Sales Analysis**
+  - End-to-end EDA and business insights
+  - Revenue & customer concentration analysis
+  - Status: Completed
 
 ---
 
